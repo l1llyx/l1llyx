@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @l1llyx  
 - 👀 I’m interested in maching learning, deep learning  
 - 🌱 I’m currently learning web crawler and statistics  
-- ✨ I'm insterested in font end development too!
+- ✨ I'm insterested in front end development too!
 - 📫 linyux1104@163.com
 
 <!---
